@@ -1,0 +1,12 @@
+VCD info: dumpfile digital_clock.vcd opened for output.
+Time = 0 ns   | Reset = 1 | Clock = 00:00:00
+Time = 20 ns  | Reset = 0 | Clock = 00:00:00
+Time = 115 ns | Reset = 0 | Clock = 00:00:01
+Time = 215 ns | Reset = 0 | Clock = 00:00:02
+Time = 315 ns | Reset = 0 | Clock = 00:00:03
+Time = 415 ns | Reset = 0 | Clock = 00:00:04
+Time = 515 ns | Reset = 0 | Clock = 00:00:05
+...
+---------------------------------------
+ Digital Clock Simulation Completed
+---------------------------------------
